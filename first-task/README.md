@@ -5,4 +5,4 @@
 
 ###Стэк приложения
  
-```parcel``` ```react``` ```react-router-dom``` ```redux-toolkit``` ```antd```
+```parcel``` ```react```
