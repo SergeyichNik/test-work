@@ -1,4 +1,4 @@
 .idea
 node_modules
-../../../sandbox/server/dist
+dist
 .parcel-cache
